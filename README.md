@@ -1,4 +1,4 @@
-# eriyot Password Note
+# Password Note
 
 Tired of wasting your time searching for your passwords in a sea of emails and notes? Password Notes lets you securely store your passwords in one place for free.
 
