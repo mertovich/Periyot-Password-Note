@@ -13,9 +13,9 @@ Often, we forget passwords because we can't remember them all. Even worse, some 
 * Node v16.13.0
 
 ### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+```
+$ git clone https://github.com/Periyot/Periyot-Password-Note.git
+```
 
 ### Executing program
 
