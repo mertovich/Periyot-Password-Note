@@ -330,14 +330,15 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     padding: '3%',
     marginTop: '3%',
-    fontSize: 24,
+    fontSize: 14,
     color: '#55A4FF',
   },
   detailTextGet: {
+    flex: 1,
     textAlign: 'center',
     padding: '3%',
     marginTop: '3%',
-    fontSize: 24,
+    fontSize: 14,
   },
   secureTextButton: {
     marginTop: '5%',
